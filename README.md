@@ -33,7 +33,6 @@
 
 | Method | Endpoint             | Access     | Description            |
 |--------|----------------------|------------|------------------------|
-| POST   | `/api/auth/register` | Public     | Register new employee  |
 | POST   | `/api/auth/login`    | Public     | Login and receive token|
 
 ### 👥 Employees
